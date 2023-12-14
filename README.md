@@ -9,4 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/Martinxux/Martinxux/main/assets/github-contribution-grid-snake.svg)
+  
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/Martinxux/Martinxux/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
