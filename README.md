@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python,Docker,md,Linux**
 - 💬 ~~Ask me about ...~~ Don't ask me anything,I just A Five
-- 📫 How to reach me: x.martinxu@outlook.com
+- 📫 How to reach me: wave.martin@qq.com
 - 😄 Pronouns: Just Haaaa
 - ⚡ Fun fact: Want to be A **DALAO**
   
